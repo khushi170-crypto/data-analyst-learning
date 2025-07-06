@@ -1,26 +1,12 @@
-# 🧠 Data Analyst Learning Journey
+# My Data Analyst Learning Repo
 
-Welcome to my Data Analyst Learning Repository!  
-This repo tracks my progress as I build skills in Python, pandas, SQL, Power BI, and more to become job-ready for data analyst roles.
+Hello, I’m Khushi.  
+This repo has my very first Python script as I start learning data analysis.
 
-## 📁 Week 1 – Python Basics
-- ✔️ Day 1: Setup & Hello World ✅
-- [hello.py](hello.py)
+So far, I’ve only written my first “Hello, Data Analyst Khushi!” program.
 
-## 🔧 Tools I'm Using
-- Python 3.12
-- VS Code
-- GitHub
-- Jupyter Notebook (coming soon)
+I’ll update this as I learn more.
 
-## 🗂️ Projects (Coming Soon)
-- Swiggy/Zomato Order Insights
-- YouTube Channel Performance Dashboard
-- Job Market Skill Tracker
+Thanks for stopping by!
 
-## 🚀 Goal
-To become a modern, job-ready data analyst and apply for internships and fresher roles in data-driven companies.
-
----
-
-⭐ Stay tuned! New updates added every week.
+— Khushi
